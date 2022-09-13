@@ -6,3 +6,4 @@ for a in range(1,n+1):
         c = int(sqrt(c_square))
         if ((c_square - c**2)==0):
             print(a,b,c)
+            all
